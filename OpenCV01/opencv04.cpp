@@ -27,7 +27,7 @@ void main() {
 	createTrackbar("Val Min", "TrackBars", &vmin, 255); // limit <=255
 	createTrackbar("Val Max", "TrackBars", &vmin, 255); // limit <=255
 
-
+	 
 	while (true)
 	{
 		Scalar lower(hmin, smin, vmin);

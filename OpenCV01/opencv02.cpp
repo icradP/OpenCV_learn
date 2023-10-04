@@ -34,7 +34,7 @@ void main() {
 		putText(img, "Hello opencv", Point(137, 262), FONT_HERSHEY_DUPLEX, 0.75, Scalar(0, 69, 255), 2);
 		imshow("Image", img);
 
-	}
+	} 
 	
 
 
