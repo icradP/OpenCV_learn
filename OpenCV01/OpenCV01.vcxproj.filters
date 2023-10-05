@@ -30,5 +30,11 @@
     <ClCompile Include="opencv05.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="opencv06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="opencv07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
