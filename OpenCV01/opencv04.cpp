@@ -32,7 +32,6 @@ void main() {
 	{
 		Scalar lower(hmin, smin, vmin);
 		Scalar upper(hmax, smax, vmax);
-
 		inRange(imgHSV, lower, upper, mask);
 
 		imshow("Image", img);
