@@ -10,6 +10,6 @@ To Study OpenCV in CPP
 - Chapter 7 - Shapes/Contour Detection:ok:
 - Chapter8 - Face Detection:ok:
 - Project 1 - Virtual Painter:ok:
-- Project 2 - Document Scanner 
+- Project 2 - Document Scanner :ok:
 - Project 3 - License Plate Detector
 
